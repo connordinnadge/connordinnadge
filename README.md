@@ -11,7 +11,7 @@ I'm a software developer / entrepreneur from the United Kingdom. With over 10 ye
 ## Skills
 - **Languages**: Javascript/Typescript, Python, C#
 - **Frameworks**: React, NextJS, Astro, Django 
-- **Tools**: Git, Docker, AWS, Vercel, TRPC, CSS Sass
+- **Tools**: Git, Docker, AWS, Vercel, TRPC, CSS, Sass, Tailwind
 - **Databases**: MySQL, MongoDB, PostresSQL
 
 ## More about me
